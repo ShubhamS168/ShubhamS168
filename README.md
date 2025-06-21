@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Data%20Science-21c87a?style=flat-square&logo=python&logoColor=white" alt="Data Science Badge"/>
   <img src="https://img.shields.io/badge/-Student-21c87a?style=flat-square&logo=academia&logoColor=white" alt="Student Badge"/>
-  <img src="https://img.shields.io/badge/-Open%20Source-21c87a?style=flat-square&logo=github&logoColor=white" alt="Open Source Badge"/>
+<!--   <img src="https://img.shields.io/badge/-Open%20Source-21c87a?style=flat-square&logo=github&logoColor=white" alt="Open Source Badge"/> -->
 </p>
 
 <p align="center">
